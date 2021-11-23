@@ -34,5 +34,6 @@ SaaS开发框架基本运行架构包含：
 2. SaaS零代码设计编辑： 在涂鸦的零代码平台上可视化的组装配置 SaaS应用，满足不同客户的个性化需求；
 3. SaaS托管： 在自己服务器上部署涂鸦提供的SaaS服务镜像， 可以完全做到自托管， 通过不同域名识别不同客户， 做到一套服务部署支持多个客户， 降低服务成本；
 
-![isv 架构图-第 1 页 drawio](https://user-images.githubusercontent.com/329506/142975840-15d33a83-b475-416a-b21f-19c13e117bfc.png)
+
+![isv 架构图-第 1 页 drawio](https://user-images.githubusercontent.com/329506/142979934-71a70fde-70a5-4f45-9b1e-d164ae5a6e25.png)
 
